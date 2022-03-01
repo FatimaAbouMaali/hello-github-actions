@@ -1,0 +1,23 @@
+{
+  "name": "hello-github-actions",
+  "version": "1.0.0",
+  "description": "This course will walk you through writing your first action and using it with a workflow file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatimaAbouMaali/hello-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatimaAbouMaali/hello-github-actions/issues"
+  },
+  "homepage": "https://github.com/FatimaAbouMaali/hello-github-actions#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
